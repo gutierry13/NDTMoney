@@ -1,20 +1,28 @@
 {
-  "transactions":[
+  "transactions": [
     {
-      "id":1,
-      "description":"Food",
-      "type":"income",
-      "category":"Venda",
-      "price":1009,
-      "createdAt":"2023-01-01T00:00:00.000Z"
+      "id": 1,
+      "description": "Food",
+      "type": "income",
+      "category": "Venda",
+      "price": 1009,
+      "createdAt": "2023-01-01T00:00:00.000Z"
     },
     {
-      "id":2,
-      "description":"hamburguer",
-      "type":"outcome",
-      "category":"Comida",
-      "price":60,
-      "createdAt":"2023-01-01T00:00:00.000Z"
+      "id": 2,
+      "description": "hamburguer",
+      "type": "outcome",
+      "category": "Comida",
+      "price": 60,
+      "createdAt": "2023-01-01T00:00:00.000Z"
+    },
+    {
+      "description": "Criação de app",
+      "price": 20000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-06-08T23:39:28.940Z",
+      "id": 3
     }
   ]
 }
